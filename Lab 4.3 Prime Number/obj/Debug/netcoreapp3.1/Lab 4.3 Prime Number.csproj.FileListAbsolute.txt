@@ -1,0 +1,13 @@
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\bin\Debug\netcoreapp3.1\Lab 4.3 Prime Number.exe
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\bin\Debug\netcoreapp3.1\Lab 4.3 Prime Number.deps.json
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\bin\Debug\netcoreapp3.1\Lab 4.3 Prime Number.runtimeconfig.json
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\bin\Debug\netcoreapp3.1\Lab 4.3 Prime Number.runtimeconfig.dev.json
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\bin\Debug\netcoreapp3.1\Lab 4.3 Prime Number.dll
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\bin\Debug\netcoreapp3.1\Lab 4.3 Prime Number.pdb
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.csprojAssemblyReference.cache
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.AssemblyInfoInputs.cache
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.AssemblyInfo.cs
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.dll
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.pdb
+C:\Users\arudzki\source\repos\Labs\Lab 4.3 Prime Number\Lab 4.3 Prime Number\obj\Debug\netcoreapp3.1\Lab 4.3 Prime Number.genruntimeconfig.cache
